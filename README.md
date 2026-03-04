@@ -1,4 +1,4 @@
-# 🧙‍♂️ Mago do Código: Matheus Cherpinski Silvano
+
 <div style="background: linear-gradient(135deg, #1a1a1d, #3a0ca3); padding: 20px; border-radius: 10px; color: #fff; font-family: 'Trebuchet MS', sans-serif;">
 
   <h1>🧙‍♂️ Mago do Código: Matheus Cherpinski Silvano</h1>
